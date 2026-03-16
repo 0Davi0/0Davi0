@@ -23,7 +23,7 @@
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?color=%23E1AD0E&style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://github.com/0Davi0?tab=repositories&sort=stargazers">
+    <a href="https://github.com/0Davi0?tab=stars">
         <img 
             alt="Total stars" 
             title="Total stars on GitHub" 
